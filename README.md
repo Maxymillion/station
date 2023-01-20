@@ -1,6 +1,6 @@
-⚠️ This project is not actively maintained. Forks or PRs encouraged (PRs will be reviewed)
+⚠️ The original project [GetStation](https://github.com/getstation) not actively maintained.
 
-# Station Desktop Application
+# Station Desktop Application (by @Maxymillion)
 
 ## Table of Contents
 - [Installation](#installation)
